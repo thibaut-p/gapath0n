@@ -1,4 +1,5 @@
 # gapath0n
+In this repository we are sharing our *python code* for accessing the Getembed Building Performance Evaluation dataset. This could should make it much easier for a data scientist to grab the data and begin analysing it in SCIpy / their favourite flavour of analysis tools.
 
 # Getembed.com - Data API Tutorial
 
@@ -6,7 +7,7 @@ This quick tutorial is designed to give people a head start in analysing the Bui
 
 During the AEC hackathon we discovered (there is no documentation on endpoints at right now but one can observe the API endpoints using firefox network dev tools to monitor the GET requests and) there is the following information available:
 
-  - programes
+  - programmes
   - projects
   - entities
   - sensors
