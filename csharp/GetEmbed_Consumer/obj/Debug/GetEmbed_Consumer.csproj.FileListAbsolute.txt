@@ -1,0 +1,9 @@
+c:\users\david\documents\visual studio 2012\Projects\GetEmbed_Consumer\GetEmbed_Consumer\bin\Debug\GetEmbed_Consumer.exe.config
+c:\users\david\documents\visual studio 2012\Projects\GetEmbed_Consumer\GetEmbed_Consumer\bin\Debug\GetEmbed_Consumer.exe
+c:\users\david\documents\visual studio 2012\Projects\GetEmbed_Consumer\GetEmbed_Consumer\bin\Debug\GetEmbed_Consumer.pdb
+c:\users\david\documents\visual studio 2012\Projects\GetEmbed_Consumer\GetEmbed_Consumer\bin\Debug\Newtonsoft.Json.dll
+c:\users\david\documents\visual studio 2012\Projects\GetEmbed_Consumer\GetEmbed_Consumer\bin\Debug\Newtonsoft.Json.pdb
+c:\users\david\documents\visual studio 2012\Projects\GetEmbed_Consumer\GetEmbed_Consumer\bin\Debug\Newtonsoft.Json.xml
+c:\users\david\documents\visual studio 2012\Projects\GetEmbed_Consumer\GetEmbed_Consumer\obj\Debug\GetEmbed_Consumer.exe
+c:\users\david\documents\visual studio 2012\Projects\GetEmbed_Consumer\GetEmbed_Consumer\obj\Debug\GetEmbed_Consumer.pdb
+c:\users\david\documents\visual studio 2012\Projects\GetEmbed_Consumer\GetEmbed_Consumer\obj\Debug\GetEmbed_Consumer.csprojResolveAssemblyReference.cache
