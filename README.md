@@ -13,7 +13,7 @@ During the AEC hackathon we discovered (there is no documentation on endpoints a
   - sensors
 
 ###List of all Building Performance Evaluation projects 
-for the program bfb6e716f87d4f1a333fd37d5c3679b2b4b6d87f
+for the Building Performance Evaluation program (id: bfb6e716f87d4f1a333fd37d5c3679b2b4b6d87f)
 http://www.getembed.com/4/programmes/bfb6e716f87d4f1a333fd37d5c3679b2b4b6d87f/projects/ 
 ###List of all buildings and their specific metadata (devices list, name, … )
 for the project 99ec20944c13709a9b7faebbba87fdcfa3f30e55
