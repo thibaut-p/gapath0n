@@ -1,6 +1,6 @@
 # Data Cleaning Recommendations
 
-The BPE dataset is a great source of a wide variety of home sensor data. However, the current dataset is very noisy and needs to be cleaned up in order to explore further into it.
+The BPE dataset is a great source of a wide variety of home sensor data. However, the current dataset is very noisy and needs to be cleanned up in order to explore further into it.
 
 Some of the challenges we faced are:
 
@@ -16,10 +16,10 @@ Some of the challenges we faced are:
 
 ## What to do?
 
-*	Make all the data available as .csv file so users can use a prefered data storage system.
+*	Make all the data available as .csv file so users can use a preferred data storage system.
 *	Document the API and give examples of how to use it.
 *	Fix all the readings types according the standards specified in https://github.com/MastodonC/AMON#standard-reading
-*	Find a better way to display *Whole House* readings alongside individual readings. Maybe it should be a reading type such as: electricityConsumptionWholeHouse
-*	Fix all the units.
-*	Check that the measurements values are using the proper units.
+*	Find a better way to display *Whole House* readings alongside individual readings. Maybe there should be a reading type such as: electricityConsumptionWholeHouse.
+*	Fix units.
+*	Check that the values of the measurements are using the right units.
 *	Fix min,max and median issue.
