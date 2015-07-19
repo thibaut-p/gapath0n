@@ -1,7 +1,0 @@
-Project,Property Code ,entity_id,yearly elec Kwh,Yearly gas Kwh,yearly elec export Kwh,gross internal area,TPER SAP,TPER real,Comments,
-12ce7bbb5cceea4736e501bd0c0f27e190ffd754,Plot 2,a9b617a4-1880-41c2-b5ad-f809b993f0fc,727.2223,2000.487,334.269,77.58,15.21,50.94577,"PV net electricity export, missing data (gap should be bigger), *100 for gas and elec", (sum_elec*2.8 + sum_gas*1.15 - sum_elec_ex*1.15)/77.58
-ab55b07de10b3541a11070ba36c2a3343d649e22,BPE1155,3025076f3e268ac7c1bf5744c435e87d3bc7d36f,7945.438,,,87.4,118.42,254.5449,"heat pomp (electrical?), had to divide by 1000",
-003f8085a4464cf3feb43ec0ae9d8ce155399053,A1 - Plot 3,5c230d38-7713-4a0b-abcc-db77661396c1,6556.274,19031.71,,109.6,132.97,367.1901,,
-003f8085a4464cf3feb43ec0ae9d8ce155399053,A2 - Plot 3,43574507-fea9-468b-8f05-9347c443526d,1447.253,5927.672,,109.6,127.41,99.1709,add to multiply by 100...,
-003f8085a4464cf3feb43ec0ae9d8ce155399053,B1 - Plot 4.2,f726b558-68b6-480e-909a-499ff39f0598,2963.817,2186.22,,89.93,116,120.2362,add to multiply by 100...  not sure for the m3 gas if 100 too...,
-003f8085a4464cf3feb43ec0ae9d8ce155399053,B2 - Plot 4.2,9c6ec875-448d-4a9e-86ba-0638f26fc596,1491.768,16653.83,,89.93,117,259.4113,"*100, same building than before",
